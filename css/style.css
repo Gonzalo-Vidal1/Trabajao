@@ -755,7 +755,7 @@ img {
     height: 120px;
     border-radius: 10px;
     flex-direction: column;
-    object-fit: cover;
+
 }
 
 @media(max-width:1200px) {
