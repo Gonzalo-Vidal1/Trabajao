@@ -1,0 +1,217 @@
+/*Main Seccion registrate gatis*/
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+
+
+/*Seccio-1*/
+.banner {
+    background-image: url(../imagenes/Gym-img.png);
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 100px;
+
+
+
+
+
+}
+
+.boton-banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.boton-inicio {
+    background: $color-principal;
+    cursor: pointer;
+    border: none;
+    padding: 16px 32px;
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    border-radius: 5px;
+
+
+
+}
+
+.boton-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+
+}
+
+
+
+
+
+/*Seccion-2*/
+.seccion-2 {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+
+    background-color: $color-principal;
+
+    justify-content: center;
+
+}
+
+.Progamas-Gratis {
+    color: aquamarine;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.comienza {
+    font-size: 15px;
+
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.cambia {
+    font-size: 15px;
+
+    margin-top: 20px;
+    color: rgb(100, 105, 105);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+
+
+
+
+
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.image-container img {
+    width: 200px;
+
+    /* Ajusta este valor según tus necesidades */
+    height: auto;
+    margin-bottom: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.image-container img:hover {
+    transform: scale(1.2);
+}
+
+@media (max-width: 1200px) {
+    .image-container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+
+        width: 100%;
+    }
+}
+
+
+
+/*Seccion alimentos-basicos-a-tener-en-cuenta*/
+.alimentos-basicos-a-tener-en-cuenta {
+    background-image: url(../imagenes/Imagen\ gym\ Fondo\ blanco.png);
+    background-position: 200PX;
+
+
+}
+
+/*Seccion importancia-de-la-alimentacion-y-nutricion*/
+.importancia-de-la-alimentacion-y-nutricion {
+    color: brown;
+    margin-top: 200px;
+    font-size: 20px;
+
+}
+
+.subscription-section {
+    background-color: #f4f4f4;
+    padding: 40px;
+    text-align: center;
+}
+
+.subscription-plan {
+    display: inline-block;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    width: 250px;
+}
+
+.subscription-plan h2 {
+    color: #333;
+}
+
+.subscription-plan p {
+    color: #666;
+}
+
+.subscription-plan button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.subscription-plan button:hover {
+    background-color: #297fb8;
+}
+
+
+.section-4 {
+
+    width: 100%;
+    height: 70vh;
+    background-color: #000;
+    display: flex;
+    padding: 100px;
+
+}
+
+.text-suplemento {
+    text-align: left;
+}
+
+
+
+.imagen-home {
+    height: 100%;
+
+}
