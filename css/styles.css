@@ -494,3 +494,7 @@ textarea {
 
 
 /*Seccion Logueate*/
+
+body {
+    background-image: url(../imagenes/bg.jpg);
+}
