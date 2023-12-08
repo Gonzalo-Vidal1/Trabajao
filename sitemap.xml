@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/issues</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/pulls</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/projects?query=is%3Aopen</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/security</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/blob/main/link%20wireframe.txt</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/releases</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/labels</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/compare</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/caches</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/7135578629</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/7135073090</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6855946686</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6855503473</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6777532290</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766081562</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766073606</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766068766</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766057522</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6701080178</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/labels?sort=name-asc</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/labels?sort=name-desc</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/labels?sort=count-desc</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/labels?sort=count-asc</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/labels/bug</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/labels/documentation</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/labels/duplicate</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/labels/enhancement</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/labels/good%20first%20issue</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/labels/help%20wanted</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/labels/invalid</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/labels/question</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/labels/wontfix</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?state=open</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?state=closed</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/7135578629/job/19432599590</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/7135578629/job/19432614303</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/7135578629/job/19432614555</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/7135578629/usage</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/commit/2d6d4096d9108842bacbd7eb03dac21d2ac7b4c9</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/7135073090/job/19431142250</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/7135073090/job/19431156863</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/7135073090/job/19431156636</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/7135073090/usage</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/commit/99e5d9b790d8ea47ca956e190b940a6ffbe29838</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6855946686/job/18642074549</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6855946686/job/18642094481</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6855946686/job/18642094169</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6855946686/usage</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/commit/84f55787589a76990e3bce24657d5e7c1d7f7559</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6855503473/job/18640666895</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6855503473/job/18640684443</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6855503473/job/18640684641</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6855503473/usage</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/commit/4169a2d9551d2f2e178b37207427b30ccc8c246e</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6777532290/job/18421327699</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6777532290/job/18421340705</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6777532290/job/18421340888</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6777532290/usage</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/commit/7e1ea2ef24cc54d8d9b7496ba2bbb58a2ef30b67</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766081562/job/18386638307</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766081562/job/18386644541</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766081562/job/18386644437</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766081562/usage</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/commit/79fb7410e042e7f072a40b267f43b3331be0ca82</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766073606/job/18386618430</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766073606/job/18386626177</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766073606/job/18386626248</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766073606/usage</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766068766/job/18386605523</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766068766/job/18386613923</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766068766/job/18386613998</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766068766/usage</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/commit/685ac4217283b52edbae913476eb42e2aaeca04f</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766057522/job/18386578503</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766057522/job/18386583663</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766057522/job/18386583769</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6766057522/usage</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/commit/29eac7826026e6a1fb0b0dc254aadcb69dd4257c</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6701080178/job/18207975890</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6701080178/job/18207989423</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6701080178/job/18207989638</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/actions/runs/6701080178/usage</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/commit/330b03c8f0bab1b9745b91f98f6d7cca0f8fbeb5</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/commit/7655c832d9f31be598531b85e1175ab6c8dc87cf</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/commit/d063ca432f28fec331770b0fe0f69e6c0682cb9a</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/commit/e9be679060438a8186728b9d77b5cb6d8c924c0e</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/commit/b443a8028f3e03344e945b185f6e79a3d084049c</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/Gonzalo-Vidal1/Trabajo-Coder-Pagina-Web/commit/5ab9294cf26a7eed5aaac0cb58b4cdcc4c1e2b19</loc>
+  <lastmod>2023-12-08T00:32:00+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>
