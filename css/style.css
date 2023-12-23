@@ -1016,13 +1016,19 @@ button {
   margin-top: 10px;
   padding: 10px;
   background-color: #cf7f7f;
-  color: #fff;
+  color: #f9ac54;
   border: none;
   cursor: pointer;
+  text-decoration: none;
+}
+
+.boton-mas a {
+  text-decoration: none;
+  background-color: #f9ac54;
 }
 
 button:hover {
-  background-color: #555;
+  background-color: #f9ac54;
 }
 
 .inportante-cuerpo {
@@ -1207,7 +1213,7 @@ textarea {
 
 @media (max-width: 720px) {
   .imagen-nutri1 {
-    width: 400px;
+    width: 500px;
     height: 450px;
   }
   .txt1 {
@@ -1234,7 +1240,7 @@ textarea {
     height: 650px;
   }
   .imagen-nutri6 {
-    width: 400px;
+    width: 600px;
     height: 650px;
     margin-right: 110px;
   }
